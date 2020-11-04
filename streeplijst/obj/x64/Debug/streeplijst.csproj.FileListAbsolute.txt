@@ -1,0 +1,17 @@
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.csprojAssemblyReference.cache
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.csproj.ResolveComReference.cache
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.AddPerson.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.Change_password.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.DeletePerson.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.OrderForm.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.NameListForm.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.PenningMessterForm.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.StartForm.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.LogIn.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.MsgBox.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.PersonData.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.Prices.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.Properties.Resources.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.StockFrom.resources
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.csproj.GenerateResource.cache
+C:\Users\vince\Documents\Visual Studio 2017\streeplijst\streeplijst\obj\x64\Debug\streeplijst.csproj.CoreCompileInputs.cache
