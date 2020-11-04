@@ -1,0 +1,50 @@
+-- MySQL dump 10.13  Distrib 8.0.19, for Win64 (x86_64)
+--
+-- Host: localhost    Database: parabool
+-- ------------------------------------------------------
+-- Server version	5.7.28-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `maandelijks`
+--
+
+DROP TABLE IF EXISTS `maandelijks`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `maandelijks` (
+  `Item111` int(11) DEFAULT '0',
+  `ID` int(10) unsigned DEFAULT '0'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `maandelijks`
+--
+
+LOCK TABLES `maandelijks` WRITE;
+/*!40000 ALTER TABLE `maandelijks` DISABLE KEYS */;
+INSERT INTO `maandelijks` VALUES (0,99),(0,100),(0,101),(0,102),(0,103),(0,104),(0,105),(0,106),(0,107),(0,108),(0,109),(0,110),(0,111),(0,112),(0,113),(0,114),(0,115),(0,116),(0,117),(0,118),(0,119),(0,120),(0,121),(0,122),(0,123),(0,124),(0,125),(0,126),(0,127),(0,128),(0,129),(0,130),(0,131),(0,132),(0,133),(0,134),(0,135),(0,136),(0,137),(0,138),(0,139),(0,140),(0,141),(0,142),(0,143),(0,144),(0,145),(0,146),(0,147),(0,148),(0,149),(0,150),(0,151),(0,152),(0,153),(0,154),(0,155),(0,156),(0,157),(0,158),(0,159),(0,160),(0,161),(0,162),(0,163),(0,164),(0,165),(0,166),(0,167),(0,168),(0,169),(0,170),(0,171),(0,172),(0,173),(0,174),(0,175),(0,176),(0,177),(0,178),(0,179),(0,180),(0,181),(0,182),(0,183),(0,184),(0,185),(0,186),(0,187),(0,188),(0,189),(0,190),(0,191),(0,192),(0,193),(0,194),(0,195),(0,196),(0,197),(0,198),(0,199),(0,200),(0,201),(0,202),(0,203),(0,204),(0,205),(0,206),(0,208),(0,209),(0,210),(0,211),(0,212),(0,213),(0,214),(0,215),(0,216),(0,217),(0,218),(0,219),(0,220),(0,221),(0,222),(0,223),(0,224),(0,225),(0,226),(0,227),(0,228),(0,229),(0,230),(0,231),(0,232),(0,233),(0,234),(0,235),(0,236),(0,237),(0,238),(0,239),(0,240),(0,241),(0,242),(0,243),(0,244),(0,245),(0,249),(0,250),(0,251),(0,252),(0,254),(0,255),(0,256),(0,257),(0,258),(0,259),(0,260),(0,261),(0,262),(0,263),(0,264),(0,265),(0,267),(0,268),(0,269),(0,270),(0,271),(0,272),(0,273),(0,274),(0,275),(0,276),(0,277),(0,278),(0,279),(0,280),(0,281),(0,282),(0,283),(0,284),(0,285),(0,286),(0,287),(0,288),(0,289),(0,290),(0,291),(0,294),(0,295),(0,296),(0,297),(0,298),(0,299),(0,300),(0,301),(0,302),(0,304),(0,305),(0,306),(0,307),(0,308),(0,309),(0,310),(0,311),(0,312),(0,313),(0,314),(0,315),(0,316),(0,317),(0,318),(0,319),(0,320),(0,321),(0,322),(0,323),(0,324),(0,325),(0,326),(0,327),(0,328),(0,329),(0,330),(0,331),(0,332),(0,333),(0,334),(0,335),(0,336),(0,337),(0,338);
+/*!40000 ALTER TABLE `maandelijks` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2020-11-04 14:05:16
