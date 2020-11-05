@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dCUGFwGYSGOF2SE40/BQ8M7ZG2sUOY9G2VvaZ+oHjErL54UPmyar9MgExgs7IgOrgTaghdGJtiPDTrtdxnuMaQ==",
+  "dgSpecHash": "lNuW5nsNda+oeBH44NZrhEKfV87ezxaTUPTolGe3/yzQPGlDi4ftTPUwXTi+MEMSXSSLHESiDKWqztM19lIaMQ==",
   "success": true,
-  "projectFilePath": "D:\\documents\\Visual Studio 2017\\streeplijst\\streeplijst_library\\streeplijst_library.csproj",
+  "projectFilePath": "D:\\vince\\Documents\\streeplijst_para_glad\\streeplijst_library\\streeplijst_library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vince\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vince\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

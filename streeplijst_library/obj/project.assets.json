@@ -3710,11 +3710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\documents\\Visual Studio 2017\\streeplijst\\streeplijst_library\\streeplijst_library.csproj",
+      "projectUniqueName": "D:\\vince\\Documents\\streeplijst_para_glad\\streeplijst_library\\streeplijst_library.csproj",
       "projectName": "streeplijst_library",
-      "projectPath": "D:\\documents\\Visual Studio 2017\\streeplijst\\streeplijst_library\\streeplijst_library.csproj",
+      "projectPath": "D:\\vince\\Documents\\streeplijst_para_glad\\streeplijst_library\\streeplijst_library.csproj",
       "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-      "outputPath": "D:\\documents\\Visual Studio 2017\\streeplijst\\streeplijst_library\\obj\\",
+      "outputPath": "D:\\vince\\Documents\\streeplijst_para_glad\\streeplijst_library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
